@@ -1,0 +1,15 @@
+<?php
+// este é um comentario de uma linha
+
+/*
+ Oque é uma variavel?
+    Uma variável é um espaço na memoria do computador[
+    que armazena um valor
+
+*/
+$variavel1 =20;
+$variavel_2 = 300;
+echo "$variavel1 + $variavel_2 = " . ($variavel1 + $variavel_2)
+
+
+?>
